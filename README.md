@@ -120,6 +120,13 @@ README.md
 * Analyze BrandD's strengths to identify practices that can improve lower-rated brands.
 * Expand customer acquisition strategies in cities with lower engagement to balance geographic distribution.
 
+  ## Key Insights
+
+- Mumbai has the highest number of users.
+- Users aged 25–34 represent the largest customer segment.
+- Mobile is the dominant device used by customers.
+- Male and female user distribution is relatively balanced.
+
   ## Users by City
 
 ![Users by City](visuals/city_analysis.png)
