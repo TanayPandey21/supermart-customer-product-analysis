@@ -92,9 +92,30 @@ README.md
 
 ---
 
-## Key Insights
+#### Key Insights
 
-- Identified top customer cities.
-- Segmented users by age and device preference.
-- Compared product categories by price.
-- Evaluated brand performance using customer ratings.
+### Customer Insights
+
+* Mumbai has the largest user base with **2,043 users**.
+* Delhi follows closely with **2,015 users**.
+* Bangalore contributes a strong customer segment with **1,844 users**.
+* Kolkata has the smallest customer base among the analyzed cities.
+
+### Demographic Insights
+
+* Male users account for the majority of customers (**5,205 users**).
+* Female users represent a substantial customer segment (**4,512 users**).
+* The **25–34 age group** is the dominant demographic with **4,075 users**.
+
+### Product Insights
+
+* **BrandD** achieved the highest average customer rating (**3.83**).
+* **BrandB** received the lowest average rating (**3.57**).
+* Most brands maintain ratings between **3.6 and 3.8**, indicating relatively consistent customer satisfaction.
+
+### Business Recommendations
+
+* Focus marketing efforts on Mumbai and Delhi, where the largest customer bases are concentrated.
+* Create targeted campaigns for the 25–34 age segment, which represents the highest share of users.
+* Analyze BrandD's strengths to identify practices that can improve lower-rated brands.
+* Expand customer acquisition strategies in cities with lower engagement to balance geographic distribution.
