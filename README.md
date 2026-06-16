@@ -119,3 +119,25 @@ README.md
 * Create targeted campaigns for the 25–34 age segment, which represents the highest share of users.
 * Analyze BrandD's strengths to identify practices that can improve lower-rated brands.
 * Expand customer acquisition strategies in cities with lower engagement to balance geographic distribution.
+
+  ## Users by City
+
+![Users by City](visuals/city_analysis.png)
+
+---
+
+## Age Distribution
+
+![Age Distribution](visuals/age_distribution.png)
+
+---
+
+## Gender Distribution
+
+![Gender Distribution](visuals/gender_distribution.png)
+
+---
+
+## Device Usage
+
+![Device Usage](visuals/device_analysis.png)
