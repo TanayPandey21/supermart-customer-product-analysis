@@ -127,10 +127,31 @@ README.md
 - Mobile is the dominant device used by customers.
 - Male and female user distribution is relatively balanced.
 
-  ## Users by City
+  ## Google BigQuery Practice
 
-![Users by City](visuals/city_analysis.png)
+### Overview
+Performed SQL analysis on Google BigQuery public datasets using cloud-based data warehouses.
 
+### Concepts Demonstrated
+- Aggregations
+- Window Functions
+- Date Functions
+- Large Dataset Querying
+- Standard SQL
+
+### Sample Queries
+
+#### Population Analysis
+
+![Population Query](visuals/bigquery_population_query.png.png)
+
+#### Window Function Analysis
+
+![Window Function](visuals/bigquery_window_function.png.png)
+
+#### Date Function Analysis
+
+![Date Function](visuals/bigquery_date_function.png.png)
 ---
 
 ## Age Distribution
